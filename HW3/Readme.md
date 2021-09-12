@@ -1,3 +1,4 @@
+# DCGAN & DQN
 1. For problem 1, implementing DCGAN to reconstruct human faces.
    The related files are in GAN_source_code folder.
    Setting the parameters in main.py.
