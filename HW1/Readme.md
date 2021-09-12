@@ -10,4 +10,5 @@
    This work recognizes wearing mask good/none/bad.
    The original dataset comes from Eden Social Welfare Foundation.
    The related files are named after hw1_q2*.py
+   Run preprocess.py first to preprocess the training and testing images.
 ```
