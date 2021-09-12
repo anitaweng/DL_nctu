@@ -1,3 +1,4 @@
+# Chinese news title classification 
 Doing Chinese word segmentation.
 ```
 python cut_txt.py
