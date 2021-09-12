@@ -1,3 +1,4 @@
+# RNN & VAE
 ```
 1. For problem 1, implementing RNN for COVID-19 trend predicton.
    The related files are named after hw2_q1*.py
