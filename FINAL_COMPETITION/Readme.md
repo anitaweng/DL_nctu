@@ -1,5 +1,3 @@
-Refer to https://github.com/FudanNLP/nlpcc2017_news_headline_categorization
-
 Doing Chinese word segmentation.
 ```
 python cut_txt.py
@@ -19,3 +17,5 @@ Get the 37th prize of 146 participants.
 
 ![image](https://user-images.githubusercontent.com/42642215/132986759-662947fa-bdeb-4098-ab1a-f2c77bc97c27.png)
 
+
+Reference: https://github.com/FudanNLP/nlpcc2017_news_headline_categorization
